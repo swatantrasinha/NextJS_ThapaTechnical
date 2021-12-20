@@ -1,0 +1,20 @@
+.heading1 {
+  background-color: red;
+}
+
+/*
+h2 {
+  background-color: green;
+}
+ */
+
+ .footer_homepage {
+   font-size: 30px;
+ }
+ .copyright {
+   background-color: blue;
+ }
+
+ .copyright_text {
+   text-transform: uppercase;
+ }

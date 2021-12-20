@@ -1,0 +1,22 @@
+.blogElement {
+    display: flex;
+    justify-content: flex-start;
+    width: fit-content;
+    padding: 20px;
+    margin: auto;
+    margin-top: 20px;
+    border: 1px solid brown;
+    border-radius: 100px;
+    cursor: pointer;
+}
+
+.blogElementId {
+    padding-right: 10px;
+    color: blue;
+    line-height: 2;
+}
+.blogElementTitle {
+    line-height: 1;
+    color: green;
+}
+
